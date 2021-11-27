@@ -8,6 +8,7 @@ namespace Task4_1
 {
     class Program
     {
+        // Метод находит квадрат числа, используя для его вычисления следующую формулу: N2=1 + 3 + 5 + ... + (2*N – 1) 
         static void Main(string[] args)
         {
             Console.WriteLine("Введите целое число N>0");
